@@ -46,10 +46,38 @@
 
 }
 
-.circle {
-    width: 200px;
-    height: 200px;
-    background-color: green;
+.circle1 {
+    width: 550px;
+    height: 550px;
+    background-color: white;
     border-radius: 50%;
     margin: auto;
+}
+
+.circle2 {
+    width: 700px;
+    height: 700px;
+    background-color: gold;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.circle3{
+    width: 1000px;
+    height: 1000px;
+    background-color: #3f6cff;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.circle4{
+    width: 1400px;
+    height: 1400px;
+    background-color: #113fd5;
+    border-radius: 100%;
+    margin: auto;
+}
+
+.pandas{
+    background-color: #001f84;
 }

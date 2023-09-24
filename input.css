@@ -45,3 +45,11 @@
     border-radius: 2px;
 
 }
+
+.circle {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    border-radius: 50%;
+    margin: auto;
+}
